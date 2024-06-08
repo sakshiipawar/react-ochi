@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Neue Montreal';
+  src: url('c:\Users\Pawar\Downloads\NeueMontreal-Regular.ttf') format('woff2'),
+       url('c:\Users\Pawar\Downloads\NeueMontreal-Regular.ttf') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+  font-family: 'Founders Grotesk';
+  src: url('/path-to-your-font/FoundersGrotesk-Regular.woff2') format('woff2'),
+       url('/path-to-your-font/FoundersGrotesk-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
