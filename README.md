@@ -10,6 +10,8 @@ In the project directory, you can run:
 
 Install All required node Module
 
+
+
 ### `npm run dev`
 
 Runs the app in the development mode.\
@@ -19,7 +21,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 Video Output
-![Video Output](./Output/output.mp4)
+![Video Output](https://github.com/sakshiipawar/react-ochi/assets/141234531/258813f6-bd69-4d35-b2c7-5ecb9f31d5a2)
 
 Full Page
 ![Full Page ScreenShot](./Output/output.png)
